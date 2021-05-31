@@ -2,9 +2,11 @@
 main:
    - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Tags"
+     url: https://tech-server-team.github.io/Developer-Blog/tags
+   - title: Categories
+     url: https://tech-server-team.github.io/Developer-Blog/categories
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  
