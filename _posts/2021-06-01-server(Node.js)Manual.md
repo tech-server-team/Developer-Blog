@@ -11,7 +11,7 @@ last_modified_at: 2021-06-01
 ---
 
 # Node.jsインストール
-https://nodejs.org/en/
+[https://nodejs.org/en/](https://nodejs.org/en/)
 
 # Server実行
 
@@ -21,7 +21,7 @@ cd ダウンロードしたところ/UDPSocketManual/Sample-nodejs-udp
 node index.js
 ```
 ## 及び
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pathExample.JPG" width= "70%" height="70%" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pathExample.jpg" width= "70%" height="70%" >
 
 * ダウンロードしたフォルダ(Sample-nodejs-udp)を開いて**赤いボックスをクリックしてコピー**
 ``` bash
