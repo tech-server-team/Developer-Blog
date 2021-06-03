@@ -17,9 +17,18 @@ https://nodejs.org/en/
 
 ## ターミナルコメント
 ```bash
-cd 自分のパース/UDPSocketManual/Sample-nodejs-udp
+cd ダウンロードしたところ/UDPSocketManual/Sample-nodejs-udp
 node index.js
 ```
+## 及び
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pathExample.JPG" width= "70%" height="70%" >
+
+* ダウンロードしたフォルダ(Sample-nodejs-udp)を開いて**赤いボックスをクリックしてコピー**
+``` bash
+cd pathを貼り付け
+node index.js
+```
+
 
 ## サーバー実行成功
 ```bash
@@ -31,7 +40,7 @@ server listening on 0.0.0.0:6060
 ## 変数説明
 ```js
 //index.js
-//現在、
+//現在、接続しているクライアントの情報
 clients[] 
 
 ```
