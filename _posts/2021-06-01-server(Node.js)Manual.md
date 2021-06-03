@@ -21,7 +21,7 @@ cd ダウンロードしたところ/UDPSocketManual/Sample-nodejs-udp
 node index.js
 ```
 ## 及び
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pathExample.jpg" width= "70%" height="70%" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/pathExample.jpg" width= "100%" height="100%" >
 
 * ダウンロードしたフォルダ(Sample-nodejs-udp)を開いて**赤いボックスをクリックしてコピー**
 ``` bash
